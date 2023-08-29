@@ -1,0 +1,15 @@
+{
+  "Author": "your name here",
+  "Name": "Moogle Tomestone Tracker",
+  "Punchline": "Track your wanted items for Moogle Tomestone events.",
+  "Description": "Gathers the items and their tomestone cost from the Itinerant Moogle, creates a list of the items and a total cost. Marks them off once you've purchased them.",
+  "InternalName": "MoogleTomeTracker",
+  "AssemblyVersion": "0.0.0.1",
+  "RepoUrl":  "https://github.com/Imaginary-Narwhal/MoogleTomeTracker",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "moogle",
+    "tomestones",
+    "vendor"
+  ]
+}

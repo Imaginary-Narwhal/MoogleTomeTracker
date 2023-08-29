@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoogleTomeTracker", "MoogleTomeTracker\MoogleTomeTracker.csproj", "{8D82593F-0D07-4476-BD15-AFFF8CB6B579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D82593F-0D07-4476-BD15-AFFF8CB6B579}.Debug|x64.ActiveCfg = Debug|x64
+		{8D82593F-0D07-4476-BD15-AFFF8CB6B579}.Debug|x64.Build.0 = Debug|x64
+		{8D82593F-0D07-4476-BD15-AFFF8CB6B579}.Release|x64.ActiveCfg = Release|x64
+		{8D82593F-0D07-4476-BD15-AFFF8CB6B579}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6222EA5-EE85-4088-B6FD-AC33D8BE452B}
+	EndGlobalSection
+EndGlobal
